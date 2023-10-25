@@ -1,3 +1,5 @@
+## Project to ingest JSON data into ElasticSearch
+
 # Group 4
 
 Zackarie Phillips  
